@@ -1,7 +1,19 @@
 import React from "react";
 
 function Guide() {
-  return <div>Guide</div>;
+  return (
+    <div>
+      <div>hgeiurbgeuibgiuerbgeiurbgeiurbgbvbervuieb</div>
+      <div>hgeriugieurgbiuerbgieurbgieurgbiuerb</div>
+      <div>freuibgeiurbervebruivebriubviuerb</div>
+      <div>hgeiurbgeuibgiuerbgeiurbgeiurbgbvbervuieb</div>
+      <div>hgeriugieurgbiuerbgieurbgieurgbiuerb</div>
+      <div>freuibgeiurbervebruivebriubviuerb</div>
+      <div>hgeiurbgeuibgiuerbgeiurbgeiurbgbvbervuieb</div>
+      <div>hgeriugieurgbiuerbgieurbgieurgbiuerb</div>
+      <div>freuibgeiurbervebruivebriubviuerb</div>
+    </div>
+  );
 }
 
 export default Guide;
